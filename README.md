@@ -2,6 +2,5 @@
 
 This is a password generator for weeks 3 of coding bootcamp.
 
-below is a screenshot of the webpage
+The password generator lets the user choose upper and lowercase letter number and symbols to be in their password as well as password length.
 
-![](images/Screenshot-Password-Gen.png)
